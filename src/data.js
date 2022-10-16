@@ -37,6 +37,36 @@ export const projects = [
     image: "./project-4.gif",
     link: "https://drive.google.com/file/d/1gwTpcHV1hJJxjk1OHTUAa8eVVjESaGXb/view",
   },
+  // {
+  //   title: "Applying Image Analytics in Construction Site for Safety Monitoring",
+  //   subtitle: "Computer Vision Research Assistant: Object Detection and Multi-Object Tracking(MOT)",
+  //   description:
+  //     "- Detected and tracked workers on construction sites by Faster R-CNN (object detection) and DeepSORT (MOT).\n"
+  //     +"- Obtained polygon by detected traffic cones to define hazard zone.\n"
+  //     +"- Alerted when the workers go across the hazard zones.",
+  //   image: "./project-4.gif",
+  //   link: "https://drive.google.com/file/d/1gwTpcHV1hJJxjk1OHTUAa8eVVjESaGXb/view",
+  // },
+  // {
+  //   title: "Applying Image Analytics in Construction Site for Safety Monitoring",
+  //   subtitle: "Computer Vision Research Assistant: Object Detection and Multi-Object Tracking(MOT)",
+  //   description:
+  //     "- Detected and tracked workers on construction sites by Faster R-CNN (object detection) and DeepSORT (MOT).\n"
+  //     +"- Obtained polygon by detected traffic cones to define hazard zone.\n"
+  //     +"- Alerted when the workers go across the hazard zones.",
+  //   image: "./project-4.gif",
+  //   link: "https://drive.google.com/file/d/1gwTpcHV1hJJxjk1OHTUAa8eVVjESaGXb/view",
+  // },
+  // {
+  //   title: "Applying Image Analytics in Construction Site for Safety Monitoring",
+  //   subtitle: "Computer Vision Research Assistant: Object Detection and Multi-Object Tracking(MOT)",
+  //   description:
+  //     "- Detected and tracked workers on construction sites by Faster R-CNN (object detection) and DeepSORT (MOT).\n"
+  //     +"- Obtained polygon by detected traffic cones to define hazard zone.\n"
+  //     +"- Alerted when the workers go across the hazard zones.",
+  //   image: "./project-4.gif",
+  //   link: "https://drive.google.com/file/d/1gwTpcHV1hJJxjk1OHTUAa8eVVjESaGXb/view",
+  // },
 ];
 
 export const skills = [
