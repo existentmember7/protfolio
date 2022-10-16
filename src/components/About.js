@@ -24,7 +24,7 @@ export default function About() {
             </a>
           </div>
         </div>
-        <div className="lh-48 md:w-48 md:w-1/2 w-5/6">
+        <div className="lh-24 md:w-24 md:w-1/2 w-5/6">
           <img
 
             className="object-cover object-center rounded"
