@@ -62,6 +62,15 @@ export const projects = [
     image: "./project-4.gif",
     link: "https://drive.google.com/file/d/1gwSo-0AD6bBx8WN9tycVK4WXnXnLQIsB/view?usp=sharing",
   },
+  {
+    title: "Web Retrieval and Mining Final Project Report – Restaurant Recommendation System",
+    subtitle: "Group Member: Web crawling and recommandation system.",
+    description:
+      "- Crawling the restaurant information from the Tripadvisor website."
+      +"- Constructing Vector Space Model and using jieba(term processing) to recommend suitable restaurants for the users.",
+    image: "./project-4.gif",
+    link: "https://github.com/existentmember7/restaurant_recommend_system",
+  },
 ];
 
 export const skills = [
