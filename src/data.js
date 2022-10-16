@@ -37,36 +37,31 @@ export const projects = [
     image: "./project-4.gif",
     link: "https://drive.google.com/file/d/1gwTpcHV1hJJxjk1OHTUAa8eVVjESaGXb/view",
   },
-  // {
-  //   title: "Applying Image Analytics in Construction Site for Safety Monitoring",
-  //   subtitle: "Computer Vision Research Assistant: Object Detection and Multi-Object Tracking(MOT)",
-  //   description:
-  //     "- Detected and tracked workers on construction sites by Faster R-CNN (object detection) and DeepSORT (MOT).\n"
-  //     +"- Obtained polygon by detected traffic cones to define hazard zone.\n"
-  //     +"- Alerted when the workers go across the hazard zones.",
-  //   image: "./project-4.gif",
-  //   link: "https://drive.google.com/file/d/1gwTpcHV1hJJxjk1OHTUAa8eVVjESaGXb/view",
-  // },
-  // {
-  //   title: "Applying Image Analytics in Construction Site for Safety Monitoring",
-  //   subtitle: "Computer Vision Research Assistant: Object Detection and Multi-Object Tracking(MOT)",
-  //   description:
-  //     "- Detected and tracked workers on construction sites by Faster R-CNN (object detection) and DeepSORT (MOT).\n"
-  //     +"- Obtained polygon by detected traffic cones to define hazard zone.\n"
-  //     +"- Alerted when the workers go across the hazard zones.",
-  //   image: "./project-4.gif",
-  //   link: "https://drive.google.com/file/d/1gwTpcHV1hJJxjk1OHTUAa8eVVjESaGXb/view",
-  // },
-  // {
-  //   title: "Applying Image Analytics in Construction Site for Safety Monitoring",
-  //   subtitle: "Computer Vision Research Assistant: Object Detection and Multi-Object Tracking(MOT)",
-  //   description:
-  //     "- Detected and tracked workers on construction sites by Faster R-CNN (object detection) and DeepSORT (MOT).\n"
-  //     +"- Obtained polygon by detected traffic cones to define hazard zone.\n"
-  //     +"- Alerted when the workers go across the hazard zones.",
-  //   image: "./project-4.gif",
-  //   link: "https://drive.google.com/file/d/1gwTpcHV1hJJxjk1OHTUAa8eVVjESaGXb/view",
-  // },
+  {
+    title: "A Semantic Segmentation Model for Autonomous Driving",
+    subtitle: "Course Project: Applied TNTUnet on street-view dataset",
+    description:
+      "TNTUnet achieve 0.61 mIoU on public dataset KITTI.",
+    image: "./project-4.gif",
+    link: "https://www.youtube.com/watch?v=ZOYQyxzb7CM",
+  },
+  {
+    title: "Taiwan Semiconductor Manufacturing Company (TSMC) - Intern Program",
+    subtitle: "Internship (Full-time): Optimizing chillers control for energy efficiency",
+    description:
+      "- Collected environmental and electricity data from semiconductor fabrication plants"
+      +"- Utilized fully connection neural networks and grid search to predicted the best setting temperatures of chillers.",
+    image: "./project-4.gif",
+    link: "",
+  },
+  {
+    title: "Train Information and Management System",
+    subtitle: "Software Engineer: Broadcast and Management of Voice Information",
+    description:
+      "Developed train information announcement broadcasting and management system.",
+    image: "./project-4.gif",
+    link: "https://drive.google.com/file/d/1gwSo-0AD6bBx8WN9tycVK4WXnXnLQIsB/view?usp=sharing",
+  },
 ];
 
 export const skills = [
