@@ -31,36 +31,24 @@ export const projects = [
     title: "Applying Image Analytics in Construction Site for Safety Monitoring",
     subtitle: "Computer Vision Research Assistant: Object Detection and Multi-Object Tracking(MOT)",
     description:
-      "Detected and tracked workers on construction sites by Faster R-CNN (object detection) and DeepSORT (MOT).\n"
-      +"Obtained polygon by detected traffic cones to define hazard zone.\n"
-      +"Alerted when the workers go across the hazard zones.",
+      "- Detected and tracked workers on construction sites by Faster R-CNN (object detection) and DeepSORT (MOT).\n"
+      +"- Obtained polygon by detected traffic cones to define hazard zone.\n"
+      +"- Alerted when the workers go across the hazard zones.",
     image: "./project-4.gif",
     link: "https://drive.google.com/file/d/1gwTpcHV1hJJxjk1OHTUAa8eVVjESaGXb/view",
   },
 ];
 
-export const testimonials = [
-  {
-    quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/1.jpg",
-    name: "Jesse Hicks",
-    company: "Zoozle",
-  },
-  {
-    quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/94.jpg",
-    name: "Ruben Alvarez",
-    company: "Dooble.io",
-  },
-];
-
 export const skills = [
+  "Python",
+  "C/C++",
+  "C#",
+  "SQL",
+  "HTML",
   "JavaScript",
   "React",
-  "Next.js",
-  "Node",
-  "GraphQL",
-  "Material UI",
+  "Pytoch",
+  "Keras",
+  "Scikit",
+  "Matpltlib"
 ];
