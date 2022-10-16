@@ -26,7 +26,7 @@ export default function About() {
         </div>
         <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
           <img
-            className="lh-24 md:w-24 object-cover object-center rounded"
+            className="lh-48 md:w-48 object-cover object-center rounded"
             alt="hero"
             src="./profile.jpg"
           />
