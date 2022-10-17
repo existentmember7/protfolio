@@ -47,12 +47,12 @@ export default function Projects() {
                       }}
                       navigation={true}
                       modules={[Autoplay, Pagination, Navigation]}
-                      className="mySwiper"
+                      className="mySwiper w-full h-full"
                     >
                       {project.pdf.map((page) =>(
                         <SwiperSlide>
                           <img
-                          className="object-fill"
+                          className="object-fill w-full h-full"
                           src={page.url}
                           alt={page.caption}
                           />
