@@ -64,7 +64,32 @@ export const projects = [
       ,"- Alerted when the workers go across the hazard zones."],
     image: "./project-4.gif",
     link: "",
-    pdf: [],
+    pdf: [
+      {
+        url: './Positioning/0001.jpg',
+        caption: 'Slide 1'
+      },
+      {
+        url: './Positioning/0002.jpg',
+        caption: 'Slide 2'
+      },
+      {
+        url: './Positioning/0003.jpg',
+        caption: 'Slide 3'
+      },
+      {
+        url: './Positioning/0004.jpg',
+        caption: 'Slide 4'
+      },
+      {
+        url: './Positioning/0005.jpg',
+        caption: 'Slide 5'
+      },
+      {
+        url: './Positioning/0006.jpg',
+        caption: 'Slide 6'
+      },
+    ],
   },
   {
     title: "A Semantic Segmentation Model for Autonomous Driving",
@@ -92,7 +117,20 @@ export const projects = [
       ["Developed train information announcement broadcasting and management system."],
     image: "./project-4.gif",
     link: "",
-    pdf: [],
+    pdf: [
+      {
+        url: './Railway/0001.jpg',
+        caption: 'Slide 1'
+      },
+      {
+        url: './Railway/0002.jpg',
+        caption: 'Slide 2'
+      },
+      {
+        url: './Railway/0003.jpg',
+        caption: 'Slide 3'
+      },
+    ],
   },
   {
     title: "Web Retrieval and Mining Final Project Report – Restaurant Recommendation System",
