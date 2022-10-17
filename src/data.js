@@ -5,7 +5,8 @@ export const projects = [
     description:
       ["Developed algorithm for vehicle turn signal recognition at intersections and roadsides that achieved 80% accuracy."],
     image: "./project-1.gif",
-    link: "https://www.youtube.com/watch?v=o1kk6lh-UYk",
+    link: "https://www.youtube.com/embed/o1kk6lh-UYk",
+    pdf: [],
   },
   {
     title: "Robot Arms Control",
@@ -14,7 +15,8 @@ export const projects = [
       ["- Utilized webcam to capture hand drawing and processed it as way points as a SVG file."
       ,"- Calculated the angles of every robot arm joints by inverse kinematic to reach each way point."],
     image: "./project-2.gif",
-    link: "https://www.youtube.com/watch?v=9dyHZUbxACI",
+    link: "https://www.youtube.com/embed/9dyHZUbxACI",
+    pdf: [],
   },
   {
     title: "2D and 3D Rebar Semantic Segmentation",
@@ -26,6 +28,32 @@ export const projects = [
       ,"- DAPT was trained by labeled virtual data and unlabel real data to detect real rebar point cloud, achieving 74% accuracy."],
     image: "./project-3.gif",
     link: "https://drive.google.com/file/d/12zitbdBUkW74rh7G0sHaH4bJQtSB92Rk/view",
+    pdf: [
+      {
+        url: './TNTUNet/0001.jpg',
+        caption: 'Slide 1'
+      },
+      {
+        url: './TNTUNet/0002.jpg',
+        caption: 'Slide 2'
+      },
+      {
+        url: './TNTUNet/0003.jpg',
+        caption: 'Slide 3'
+      },
+      {
+        url: './TNTUNet/0004.jpg',
+        caption: 'Slide 4'
+      },
+      {
+        url: './TNTUNet/0005.jpg',
+        caption: 'Slide 5'
+      },
+      {
+        url: './TNTUNet/0006.jpg',
+        caption: 'Slide 6'
+      },
+    ],
   },
   {
     title: "Applying Image Analytics in Construction Site for Safety Monitoring",
@@ -35,7 +63,8 @@ export const projects = [
       ,"- Obtained polygon by detected traffic cones to define hazard zone."
       ,"- Alerted when the workers go across the hazard zones."],
     image: "./project-4.gif",
-    link: "https://drive.google.com/file/d/1gwTpcHV1hJJxjk1OHTUAa8eVVjESaGXb/view",
+    link: "",
+    pdf: [],
   },
   {
     title: "A Semantic Segmentation Model for Autonomous Driving",
@@ -43,7 +72,8 @@ export const projects = [
     description:
       ["TNTUnet achieve 0.61 mIoU on public dataset KITTI."],
     image: "./project-4.gif",
-    link: "https://www.youtube.com/watch?v=ZOYQyxzb7CM",
+    link: "https://www.youtube.com/embed/ZOYQyxzb7CM",
+    pdf: [],
   },
   {
     title: "Taiwan Semiconductor Manufacturing Company (TSMC) - Intern Program",
@@ -53,6 +83,7 @@ export const projects = [
       ,"- Utilized fully connection neural networks and grid search to predicted the best setting temperatures of chillers."],
     image: "./project-4.gif",
     link: "",
+    pdf: [],
   },
   {
     title: "Train Information and Management System",
@@ -60,7 +91,8 @@ export const projects = [
     description:
       ["Developed train information announcement broadcasting and management system."],
     image: "./project-4.gif",
-    link: "https://drive.google.com/file/d/1gwSo-0AD6bBx8WN9tycVK4WXnXnLQIsB/view?usp=sharing",
+    link: "",
+    pdf: [],
   },
   {
     title: "Web Retrieval and Mining Final Project Report – Restaurant Recommendation System",
@@ -69,7 +101,8 @@ export const projects = [
       ["- Crawling the restaurant information from the Tripadvisor website."
       ,"- Constructing Vector Space Model and using jieba(term processing) to recommend suitable restaurants for the users."],
     image: "./project-4.gif",
-    link: "https://github.com/existentmember7/restaurant_recommend_system",
+    link: "",
+    pdf: [],
   },
 ];
 
